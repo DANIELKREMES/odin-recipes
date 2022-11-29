@@ -1,0 +1,26 @@
+h1,
+h2,
+h3,
+a {
+  text-transform: uppercase;
+}
+
+.background_color_pages {
+  background-color: #ade8ff;
+}
+
+.background_color_pages_morango {
+  background-color: #fd9a92;
+}
+
+.background_color_pages_laranja {
+  background-color: #ffa40c;
+}
+
+.background_color_pages_leite_condensado {
+  background-color: #bf6c02;
+}
+
+img {
+  width: 100%;
+}
